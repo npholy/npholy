@@ -4,7 +4,7 @@
 
 I’m an intermediate backend developer focused on designing reliable, scalable systems and building intelligent applications powered by AI.
 
-I believe in **learning by building**, moving fast with tools like Cursor, and turning ideas into functional, real-world systems.
+I believe in **learning by building**, moving fast with tools, and turning ideas into functional, real-world systems.
 
 ---
 
