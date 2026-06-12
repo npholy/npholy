@@ -1,4 +1,4 @@
-# Hi there, I'm Folikia Nigussie Haile 👋
+# Hi there, I'm Folikia Nigussie 👋
 
 ### 🚀 Full-Stack Software Engineer | Backend-Focused Developer
 
